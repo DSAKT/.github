@@ -2,3 +2,28 @@
 </p>
 
 
+# Data Structures & Algorithms in Kotlin
+
+Welcome to **DSA.kt** – your destination for learning and mastering **Data Structures & Algorithms in Kotlin**. Whether you're a beginner or exploring advanced topics, we provide clear explanations, practical examples, and real-world problem-solving strategies.
+
+## What You'll Find
+
+### **Data Structures**
+- Comprehensive coverage of **Kotlin data structures** with examples.
+- Insights into **compatibility with Java** and equivalent Java implementations.
+- Real-world use cases to understand when and where to use each structure.
+
+### **Algorithms**
+- Clear explanations of **commonly used algorithms**, including sorting, searching, dynamic programming, and graph traversal.
+- Code syntax and examples written in Kotlin.
+- Side-by-side **Java examples** for easy comparison and interoperability.
+
+### **Problem Solving**
+- Step-by-step solutions to popular **LeetCode problems**.
+- Instructions and guides for approaching and solving algorithmic challenges.
+- Clean and efficient **Kotlin code** implementations, ready for interviews or projects.
+
+
+## Start Learning Today!
+
+Visit **[https://dsakt.github.io/](https://dsakt.github.io/)** to explore all the content and get started on your journey to mastering Data Structures & Algorithms with Kotlin.
